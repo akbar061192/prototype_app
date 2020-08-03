@@ -9,8 +9,7 @@ function Login() {
         <div className='row '>
           <div className='col-md-12 d-flex'>
             <h5 className='text-white mr-auto mt-4 ml-2'>
-              <FaLessThan className='mb-1' />
-              BACK
+              <FaLessThan className='mb-1' /> BACK
             </h5>
           </div>
         </div>

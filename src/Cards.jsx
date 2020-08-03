@@ -1,6 +1,5 @@
 import React from 'react';
-import {NavLink} from 'react-router-dom';
-
+import { NavLink } from 'react-router-dom';
 
 const Cards = (props) => {
   return (
@@ -11,7 +10,7 @@ const Cards = (props) => {
             className='card-img-top'
             src={props.img}
             alt='Card image'
-            style={{ width: '100%' , height : '200px' }}
+            style={{ width: '100%', height: '200px' }}
           />
           <div className='card-body'>
             <h4 className='card-title font-weight-bold'>{props.title}</h4>
@@ -19,7 +18,7 @@ const Cards = (props) => {
               Some example text some example text. John Doe is an architect and
               engineer
             </p>
-            <NavLink to="/contact" className='btn btn-primary'>
+            <NavLink to='/contact' className='btn btn-primary'>
               See Profile
             </NavLink>
           </div>
