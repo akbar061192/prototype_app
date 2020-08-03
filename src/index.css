@@ -1,11 +1,18 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Muli:wght@300&display=swap'); */
 
-@import url('https://fonts.googleapis.com/css2?family=Muli:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-*{
-  margin: 0px; padding: 0px; box-sizing: border-box ; font-family: 'Roboto', sans-serif;
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
 }
 
-body{
-  background-color: grey
+body {
+  background-color: grey;
 }
-.fixed-row-bottom { position: fixed; bottom: 0;}
+.fixed-row-bottom {
+  position: fixed;
+  bottom: 0;
+}
