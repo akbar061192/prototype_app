@@ -7,7 +7,7 @@ import cardImg from './card.jpeg';
 
 function Card() {
   return (
-    <div>
+    <div className='bg-white'>
       <div className='container-fluid mb-5' style={{ height: '94vh' }}>
         <div className='row mb-5 '>
           <div className='col-md-12'>
