@@ -12,6 +12,7 @@ import Meeting from './components/Meeting';
 import List from './components/List';
 import Join from './components/Join';
 import Reset from './components/Reset';
+import './Apps.css';
 
 const App = () => {
   return (
