@@ -13,7 +13,7 @@ function Schedule() {
               <input
                 type='text'
                 className='form-control mt-3 text-center mx-auto'
-                id='exampleInputEmail1'
+                id='exampleInputEmail18'
                 aria-describedby='emailHelp'
                 placeholder={`Search`}
                 style={{ borderRadius: '25px' }}
@@ -35,7 +35,7 @@ function Schedule() {
             <input
               type='text'
               className='form-control'
-              id='exampleInputPassword1'
+              id='exampleInputPassword12'
               placeholder='Date and Time'
             />
           </div>
@@ -43,7 +43,7 @@ function Schedule() {
             <input
               type='text'
               className='form-control'
-              id='exampleInputPassword1'
+              id='exampleInputPassword13'
               placeholder='Meeting duration'
             />
           </div>
@@ -51,7 +51,7 @@ function Schedule() {
             <input
               type='text'
               className='form-control'
-              id='exampleInputPassword1'
+              id='exampleInputPassword14'
               placeholder='Time Zone'
             />
           </div>
@@ -59,7 +59,7 @@ function Schedule() {
             <input
               type='text'
               className='form-control'
-              id='exampleInputPassword1'
+              id='exampleInputPassword15'
               placeholder='Repeatation'
             />
           </div>
@@ -67,15 +67,15 @@ function Schedule() {
             <input
               type='text'
               className='form-control'
-              id='exampleInputPassword1'
+              id='exampleInputPassword16'
               placeholder='Meeting password'
             />
           </div>
-          <div className='form-group mb-5'>
+          <div className='form-group mb-3'>
             <input
               type='password'
               className='form-control'
-              id='exampleInputPassword1'
+              id='exampleInputPassword17'
               placeholder='Password'
             />
           </div>

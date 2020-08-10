@@ -18,7 +18,6 @@ const App = () => {
   return (
     <>
       <Navbar />
-
       <Switch>
         <Route exact path='/' component={StartingPage} />
         <Route exact path='/login' component={Login} />
