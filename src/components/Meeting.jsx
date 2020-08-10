@@ -25,8 +25,8 @@ function Meeting() {
           </video>
         </div>
         <div className='row bg-dark'>
-          <div className='col-12 d-flex flex-row'>
-            <h2 className='text-primary mr-2 ml-2'>
+          <div className='col-12 d-flex flex-row align-content-between'>
+            <h2 className='text-primary mr-3 ml-3'>
               <MdPeople />{' '}
             </h2>
             <h2 className='text-white mr-3 '>
