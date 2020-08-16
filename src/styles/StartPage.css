@@ -1,18 +1,25 @@
-.main_content{
-    position: absolute;
-    bottom: 30px;
-    width: 100%;
+.main_content {
+  position: absolute;
+  bottom: 30px;
+  width: 100%;
 }
-.fixed-row-bottom { position: fixed; 
-    bottom: 0;
-    width: 100%;
-    color: white
+.fixed-row-bottom {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: white;
 }
 
-.bdr{
-    border-left: 1px solid white;
-    border-right: 1px solid white
+.bdr {
+  border-left: 1px solid white;
+  border-right: 1px solid white;
 }
-.top{
-    top: 25%
+.top {
+  top: 25%;
+}
+
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
 }
