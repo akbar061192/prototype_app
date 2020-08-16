@@ -109,7 +109,7 @@ function InstaMeeting() {
               <hr />
             </ul>
           </div>
-          <button className='btn btn-warning btn-block text-capitalize rounded-pill'>
+          <button className='btn btn-warning btn-block mb-0 text-capitalize rounded-pill'>
             Start Meeting
           </button>
         </div>

@@ -105,13 +105,13 @@ const Navbar = () => {
                   >
                     UpdatePassword
                   </NavLink>
-                  <NavLink
+                  {/* <NavLink
                     activeClassName='menu_active'
                     to='meetingwindow'
                     className='nav-item nav-link'
                   >
                     MeetingWindow
-                  </NavLink>
+                  </NavLink> */}
                   <NavLink
                     activeClassName='menu_active'
                     to='instameeting'
